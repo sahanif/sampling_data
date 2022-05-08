@@ -8,3 +8,8 @@ i. Sheet weather_2014 menjadi file weather_2014.csv
 ii. Sheet weather_2015 menjadi file weather_2015.csv
 c. Gabungkan Data weather 2014 dan 2015 menjadi 1 csv kemudian beri nama weather.csv. Selain itu hapus file weather_data.xlsx
 d. Lakukan sampling pada file weather.csv dengan rate 0.3 kemudian simpan kedalam file sample_weather.csv
+---------------------------------
+2. Buat repository di akun github anda dengan ketentuan:
+a. Nama repositorinya disamakan dengan repositori lokal di nomor 1.
+b. Push kode dan data yang telah dibuat pada soal nomor 1 ke repository github anda.
+c. Tambahkan penjelasan setiap baris kode yang ada di file sampling.sh pada README.md file yang ada di repositori github
