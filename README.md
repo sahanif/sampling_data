@@ -16,3 +16,5 @@ Tugas 4  Shell Tooling Pacmann
     ```$ rm -f weather_data.xlsx```<br/> 
   * Lakukan sampling pada file weather.csv dengan rate 0.3 kemudian simpan kedalam file sample_weather.csv. Perintahnya adalah: <br/> 
    ```$ cat weather.csv | sample -r 0.3 > sample_weather.csv```
+   * Semua baris perintah diatas dimasukkan dalam file sampling.sh untuk kemudian kita execute dengan perintah ``` $ ./sampling.sh ```
+   * DONE
