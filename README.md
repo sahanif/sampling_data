@@ -1,6 +1,5 @@
 # sampling_data
 Tugas 4  Shell Tooling Pacmann
-Di Tugas 4 ini langkah task yang dilakukan adalah sbb:
 ======================================================
 1. Buat sebuah repositori git di computer local dengan nama sampling_data. Didalam repository tersebut buatlah sebuah script dengan nama sampling.sh dimana script tersebut akan menjalankan perintah:
   * Mendownload sebuah file excel dari link berikut dan menyimpannya di dalam folder data: https://github.com/labusiam/dataset/raw/main/weather_data.xlsx. Perintahnya adalah: <br/> 
